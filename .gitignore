@@ -1,0 +1,6 @@
+# Assembler-generated files
+*.sym
+*.obj
+
+# Vim temporary files.
+*.swp
