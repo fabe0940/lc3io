@@ -1,9 +1,10 @@
 SUMMARY
 
-This project is a simple project, more about becoming familiar with the
-LC3 instruction set and toolchain than solving a difficult problem. The
-purpose is to examine the value pre-loaded into the first register (R0)
-and store the number of set bits into the eigth register (R7).
+This program prints a welcome message upon startup, and then prompts
+the user for input. If it is given an 'A', then the line "Cook Before
+Serving" is printed. If it is given a 'X', then the program prints
+"finished." and halts. If any other character is inputed, then a '?'
+is printed and the user is reprompted.
 
 
 BUILING
